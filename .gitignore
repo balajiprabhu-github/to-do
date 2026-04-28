@@ -22,3 +22,7 @@ Thumbs.db
 
 # dotnet secrets
 appsettings.*.local.json
+
+# claude
+.claude/settings.local.json
+
